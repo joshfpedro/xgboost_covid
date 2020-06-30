@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     26273,        643]
-NotebookOptionsPosition[     21932,        565]
-NotebookOutlinePosition[     22311,        581]
-CellTagsIndexPosition[     22268,        578]
+NotebookDataLength[     26553,        650]
+NotebookOptionsPosition[     22118,        571]
+NotebookOutlinePosition[     22497,        587]
+CellTagsIndexPosition[     22454,        584]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -545,6 +545,12 @@ Cell[BoxData["\<\"ratio.csv\"\>"], "Output",
 }, Open  ]],
 
 Cell[BoxData[
+ RowBox[{"SystemOpen", "[", "\"\<ratio.csv\>\"", "]"}]], "Input",
+ NumberMarks->False,
+ CellLabel->
+  "In[155]:=",ExpressionUUID->"d94ac00f-410c-4c8e-b2bf-c1c13543cae2"],
+
+Cell[BoxData[
  RowBox[{"SystemOpen", "[", "\"\<datanormalizedratio.csv\>\"", "]"}]], "Input",
  NumberMarks->False,
  CellLabel->
@@ -640,9 +646,10 @@ Cell[CellGroupData[{
 Cell[20421, 527, 511, 9, 35, "Input",ExpressionUUID->"0677ca9c-7799-47fd-b9e5-d7a5469fb65b"],
 Cell[20935, 538, 315, 5, 40, "Output",ExpressionUUID->"488fd6ab-804e-4450-95c6-09add55f589b"]
 }, Open  ]],
-Cell[21265, 546, 197, 4, 35, "Input",ExpressionUUID->"e5b51145-a049-4a3d-a774-061b829f780c"],
-Cell[21465, 552, 197, 4, 35, "Input",ExpressionUUID->"cab3b386-d6e7-46a5-baa7-9574cfb20666"],
-Cell[21665, 558, 239, 3, 35, "Input",ExpressionUUID->"99101b71-9e9f-491d-aaf5-044368fcb385"]
+Cell[21265, 546, 183, 4, 68, "Input",ExpressionUUID->"d94ac00f-410c-4c8e-b2bf-c1c13543cae2"],
+Cell[21451, 552, 197, 4, 35, "Input",ExpressionUUID->"e5b51145-a049-4a3d-a774-061b829f780c"],
+Cell[21651, 558, 197, 4, 35, "Input",ExpressionUUID->"cab3b386-d6e7-46a5-baa7-9574cfb20666"],
+Cell[21851, 564, 239, 3, 35, "Input",ExpressionUUID->"99101b71-9e9f-491d-aaf5-044368fcb385"]
 }, Open  ]]
 }, Open  ]]
 }
