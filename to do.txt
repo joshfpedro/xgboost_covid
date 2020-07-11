@@ -1,0 +1,13 @@
+normalize for age before generating
+
+replace 0 denominator with NA
+
+specify validation split
+
+split data into cohorts and see what age groups has most impact
+
+use upregulated/downregulated values as features (calculate mean and then the difference between values and and mean)
+
+Similarities/disimilarities between cohorts of ratios.
+
+z scores
